@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ghostdizz
+- 👋 Hi, I’m Peter John
 - 👀 I’m interested in Computer
 - 🌱 I’m currently learning Python, OOP, DataStructure
 - 💞️ I’m looking to collaborate on ...
