@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Peter John
 - 👀 I’m interested in Computer
-- 🌱 I’m currently learning Python, C++, OOP, DataStructure
+- 🌱 I’m currently learning Python, C++, OOP, DataStructure, SQL
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ghostdizz@protonmail.com
 
