@@ -6,7 +6,7 @@ AI Engineer | Data Scientist
 
 * 🌍  I'm based in Ha Noi
 * ✉️  You can contact me at [peterjohn.dev@protonmail.com](mailto:peterjohn.dev@protonmail.com)
-* 🧠  I'm learning Machine Learning
+* 🧠  I'm learning Machine Learning, Deep Learning
 * 🤝  I'm open to collaborating on AI projects
 
 <a href="https://www.github.com/huuhieu56" target="_blank" rel="noreferrer"><img
